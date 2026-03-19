@@ -22,7 +22,8 @@ An interactive playing cards interface built using pure HTML and CSS.
 - Separating container and animation layers
 - Creating interactive UI without JavaScript
 
-### LIVE REPO:
+### VIEW LIVE
+- LIVE REPOSITORY: https://25a31a05da.github.io/CARD-FLIP-UI/
 
 
 ## 🔮 Future Improvements
